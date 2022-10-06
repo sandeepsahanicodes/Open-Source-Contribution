@@ -14,16 +14,7 @@ class MyMath
    // Added a div method for division
    public static int div(int a,int b)
    {
-      int q=0;
-      if(b==0)
-      {
-        System.out.println("Please add a non-zero denominator");
-      }
-      else
-      {
-         q=a/b;
-      }
-      return q;
+      return (b!=0) ? (a/b): -1;
    }
 
 }
@@ -34,6 +25,6 @@ class MathDriver
     {
         System.out.println(MyMath.add(10, 20));
         System.out.println(MyMath.sub(10, 20));
-        System.out.println(MyMath.div(10, 20)); // Using div method
+        System.out.println(MyMath.div(20, 20)); // Using div method
     }
 }
