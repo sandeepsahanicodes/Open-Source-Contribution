@@ -14,15 +14,7 @@ class MyMath
    // Added a div method for division
    public static int div(int a,int b)
    {
-      if(b!=0)
-      {
-         return a/b;
-      }
-      else
-      {
-         System.out.println("Please add a non-zero denominator");
-      }
-      
+      return (b!=0)?a/b:System.out.println("Please add a non-zero denominator");
    }
 
 }
