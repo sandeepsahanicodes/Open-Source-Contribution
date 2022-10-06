@@ -14,15 +14,16 @@ class MyMath
    // Added a div method for division
    public static int div(int a,int b)
    {
-      if(b!=0)
+      int q=0;
+      if(b==0)
       {
-         return a/b;
+        System.out.println("Please add a non-zero denominator");
       }
       else
       {
-         System.out.println("Please add a non-zero denominator");
+         q=a/b;
       }
-      
+      return q;
    }
 
 }
