@@ -1,4 +1,4 @@
-# Github-Collab
+# Open Source Contribution
 
 ## Want to learn how to collaborate on GitHub? Do following steps:
 
