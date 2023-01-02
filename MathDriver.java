@@ -8,7 +8,7 @@ class MyMath
 
    public static int sub(int a,int b)
    {
-       return a-b;
+       return a-b; // Bug
    }
    
    // Added a div method for division
