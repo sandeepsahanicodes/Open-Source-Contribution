@@ -25,6 +25,6 @@ class MathDriver
     {
         System.out.println(MyMath.add(10, 20));
         System.out.println(MyMath.sub(10, 20));
-        System.out.println(MyMath.div(20, 20)); // Using div method
+        System.out.println(MyMath.div(20, 0)); // Using div method
     }
 }
