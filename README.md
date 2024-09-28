@@ -16,6 +16,7 @@
 - Add any type of code or add an README.md file introducing yourself.
 - Commit changes.
 - Create pull request.
+- And all set.
 
 ### Congratulations🥳 You have successfully completed your first Contribution!
 
