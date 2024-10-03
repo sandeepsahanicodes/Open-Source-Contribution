@@ -10,12 +10,13 @@
 
 </div>
 
-## Want to learn how to collaborate on GitHub? Do following steps:
+## About
+- I created this repo in order to learn how to work with multiple developer in a single project.
+## Want to learn how to collaborate? Do following steps:
 
 - Fork this repo or add files in GitHub Web itself.
 - Add any type of code or add an README.md file introducing yourself.
 - Commit changes.
 - Create pull request.
 - And all set.
-
-### Congratulations🥳 You have successfully completed your first Contribution!
+- Congratulations🥳 You have successfully completed your first Contribution!
